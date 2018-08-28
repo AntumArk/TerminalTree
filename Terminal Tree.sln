@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal_Tree", "Terminal Tree\Terminal_Tree.csproj", "{B54B70FA-7060-40BE-A7EB-04E240B9666E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54B70FA-7060-40BE-A7EB-04E240B9666E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54B70FA-7060-40BE-A7EB-04E240B9666E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54B70FA-7060-40BE-A7EB-04E240B9666E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54B70FA-7060-40BE-A7EB-04E240B9666E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4AE464-7468-4D37-AF5F-8A39393E745A}
+	EndGlobalSection
+EndGlobal
